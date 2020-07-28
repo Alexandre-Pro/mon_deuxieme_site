@@ -1,0 +1,100 @@
+body
+{
+	background-image: url(image/background.jpg); /*fixed no-repeat center*/
+	font: 18px times bold
+
+}
+
+body
+{
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+h1, h2
+{
+	text-align: center;
+	color: cyan;
+}
+
+h1, h2
+{
+	background-color: rgba(175, 184, 198, 0.5);
+	border: 2px cyan solid;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px black;
+}
+
+h3
+{
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+p
+{
+	font: 20px times;
+	font-weight: bold;
+	text-align: center;
+	border: 2px lime solid;
+	border-radius: 10px;
+	color: lime;
+}
+
+ol
+{
+	border: 2px lime solid;
+	border-radius: 10px;
+}
+
+li, .intro
+{
+	text-align: center;
+	font: 20px times;
+	font-weight: bold;
+	color: cyan;
+}
+
+
+
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color:navy;
+}
+
+.logo
+{
+	width: 100%
+}
+
+.logo
+{
+	max-width: 500px;
+	max-height: 506px;
+}
+
+.capture
+{
+	width: 100%
+}
+
+.capture
+{
+	max-width: 900px;
+	max-height: 506px;
+}
+
+.accueil
+{
+	text-align: right;
+}
